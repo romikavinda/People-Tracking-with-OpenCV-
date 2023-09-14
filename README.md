@@ -5,5 +5,4 @@ Demo - https://www.youtube.com/playlist?list=PLMcpOAaAxM8w-B9LNxQgKTzZ91K24q3xv
 
 
 License
-
-Strictly for research and development only and not for commercial development and use.
+MIT License
